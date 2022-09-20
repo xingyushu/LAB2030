@@ -7,7 +7,8 @@ A reference for computing III lab
 * One submission by the "presenter" from each group made via blackboard. You can refer the  presenter in code comments,e.g. "Alice: for algorithm,Bob: for coding,etc."
     * Because We  will grade it by their members' contribution,participation in group,also the correctness,programming,etc.
 * Some of the early labs they may be able to complete during the lab time. The instructor would allow a submission to be made upto two weeks after the lab date, but
-never after the last day of classes
+never after the last day of classes.
+* Once you finish the lab on class,Please tell me your group name and present it clear about your code,result,contribution of members.You can submit for several times until you think it perfect.
 * If any question you can contact me by email in blackborad.
 
 
