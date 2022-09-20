@@ -50,3 +50,6 @@ int main() {
 
     return 0;
 }
+
+
+/*Come on,it is a easy question,you can make it perfect such as the structure of grammar,the variable definition.*/
