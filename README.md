@@ -13,7 +13,7 @@ never after the last day of classes.
 * Submit inteface : The homepage or lab details under corresponding lab #number.
 * If any question you can contact me by email in blackborad.
 
-### Grading criterion
+### Grading criterion(After Lab 1)
 * Base(finish+present): 95 (All members show up,explain the code and excute as sample,done; *Prof. said,the guy who don't show up would get zero.*)
 
 * Well-Format/structure:+2 (e.g. precision as sample, 98.04 not 98.0395... ; Main Function ——> Sub Function... ; The variable definition consistant, Student_ID,StudentName,Studentaddress,studentCourse,...)
