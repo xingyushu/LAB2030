@@ -14,15 +14,15 @@ never after the last day of classes.
 * If any question you can contact me by email in blackborad.
 
 ### Grading criterion
-*Base(finish): 95
+* Base(finish): 95
 
-*Well-Format/structure:+2 (e.g. precision as sample, 98.04 not 98.0395... ; Main Function ——> Sub Function... ; The variable definition consistant, Student_ID,StudentName,Studentaddress,studentCourse,...)
+* Well-Format/structure:+2 (e.g. precision as sample, 98.04 not 98.0395... ; Main Function ——> Sub Function... ; The variable definition consistant, Student_ID,StudentName,Studentaddress,studentCourse,...)
 
-*Good code Comment:+2 (e.g. explain the function or related)
+* Good code Comment:+2 (e.g. explain the function or related)
 
-*Comment about contribution:+1 (It is a proof about the group job)
+* Comment about contribution:+1 (It is a proof about the group job)
 
-*Good Habits cntribute to long-Term development not just a score.
+* Good Habits cntribute to long-Term development not just a score.
 
 
 ### Lab 1 
