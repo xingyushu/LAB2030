@@ -40,3 +40,5 @@ Transform pounds to kg
 [Reference](https://cplusplus.com/forum/beginner/188007/)
 
 ### Lab3
+
+[Reference](https://github.com/xingyushu/LAB_ComputingIII/blob/main/L03.cpp)
