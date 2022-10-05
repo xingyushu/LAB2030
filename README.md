@@ -3,7 +3,7 @@ A reference for computing III lab
 
 ### Need to know 
 
-* The computing III labs are done by a group of four.You can checkout the members and discuss together.
+* The computing III labs are done by a group of four.You can checkout the members and discuss together(Every group differ from different labs!).
 * One submission by the "presenter" from each group made via blackboard. You can refer the  presenter in code comments,e.g. "Alice: for algorithm,Bob: for coding,etc."
     * Because We  will grade it by their members' contribution,participation in group,also the correctness,programming,etc.
     * You can comment "who do what" in your code.
